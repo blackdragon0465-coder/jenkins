@@ -1,4 +1,4 @@
-name = input("enter the name")
-usn = int(input("enter the usn"))
-print(f"{name}")
-print(f"{usn}")
+name = "pothyshwer"
+usn = "147"
+print("{name}")
+print("{usn}")
